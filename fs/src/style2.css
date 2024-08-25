@@ -111,9 +111,16 @@ body {
     margin-top: 20px;
     transition: background-color 0.3s ease, transform 0.1s ease, box-shadow 0.3s ease;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    
 }
-
+.image-container {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%; /* For rounded corners */
+    box-shadow: 3px 7px 15px #000; /* Shadow effect */
+    background-image: url('https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/images/IMG_20240706_141042_302.jpg');
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-position: center; /* Centers the image in the container */
+}
 .redeem-button:hover {
     background-color: #000; /* Darker Green */
     box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15);

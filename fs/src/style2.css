@@ -50,7 +50,7 @@ body {
             width: 100%;
             height: 100%;
             border-radius: 50%;
-            background-image: url('https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/images/telegram.svg');
+            background-image: url('https://cdn.jsdelivr.net/gh/amanvishwak/amanvishwak/images/IMG_20240915_190648_325.jpg');
             background-size: cover;
             background-position: center;
             box-shadow: 0 0 15px 5px rgba(0, 0, 255, 0.5);
@@ -117,7 +117,7 @@ body {
     height: 80px;
     border-radius: 50%; /* For rounded corners */
     box-shadow: 3px 7px 15px #000; /* Shadow effect */
-    background-image: url('https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/images/IMG_20240706_141042_302.jpg');
+    background-image: url('https://cdn.jsdelivr.net/gh/amanvishwak/amanvishwak/images/IMG_20240915_190705_837.jpg');
     background-size: cover; /* Ensures the image covers the entire container */
     background-position: center; /* Centers the image in the container */
 }
